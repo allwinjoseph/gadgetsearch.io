@@ -1,0 +1,21 @@
+---
+title: "Mobile Phones"
+layout: mobile
+pagination:
+    enabled: true
+permalink: "/mobiles"
+---
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+ <!-- Content -->
+  
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+
+{% include mobile-mainloop.html %}
+        
+
+</div>
+<div class="col-md-5"> {% include sidebar-featured.html %}  </div>
+</div>
+</div>

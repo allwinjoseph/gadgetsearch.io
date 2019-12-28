@@ -1,0 +1,234 @@
+I"4%<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+<p><!-- Content --></p>
+
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+
+         
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+             <h4 class="font-weight-bold spanborder"><span>Latest Mobiles</span></h4>
+  
+
+	       
+  
+    <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/samsung-galaxy-m20/">Samsung Galaxy M20</a>
+	</h2>
+	<p class="excerpt">
+	   Samsung M20 will be a great choice for the one who likes the best display quality and built quality. This mobile has great features for this price range. This Mobile really look slim ...
+	</p>
+	<small class="d-block text-muted">
+		<span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#new">new</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mobiles">mobiles</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Sep 10, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/samsung-galaxy-m20/">
+	<img class="w-100" src="/assets/images/samsung-galaxy-m20-2images.jpg" alt="Samsung Galaxy M20" />
+	</a>
+	</div>
+
+</div>
+  
+      
+
+
+    
+        
+<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+</div>
+<div class="col-md-5"> <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Mobiles-less-than-20000/" class="text-dark">Top 5 mobiles under Rs.20000</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#android mobiles">Android Mobiles</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/BlueTooth-HeadSet-less-than-10000/" class="text-dark">Top Bluetooth HeadSet</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#wireless headset">Wireless Headset</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Tablets-less-than-20000/" class="text-dark">Top tablets under Rs.20000</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#android tablet">Android Tablet</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Hardrive-less-than-20000/" class="text-dark">Top Hard Disk Drive under Rs.20000</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#portable harddrive">portable harddrive</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Hardrive-less-than-20000/" class="text-dark">Top Hard Disk Drive under Rs.20000</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#portable harddrive">portable harddrive</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/BlueTooth-HeadSet-less-than-10000/" class="text-dark">Top Bluetooth HeadSet</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#wireless headset">Wireless Headset</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Tablets-less-than-20000/" class="text-dark">Top tablets under Rs.20000</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#android tablet">Android Tablet</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Nokia-5.1-Plus/" class="text-dark">Nokia 5.1 Plus</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mobiles">mobiles</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#android mobiles">Android Mobiles</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#nokia">Nokia</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Iphone-Accessories/" class="text-dark">Top Iphone Accessories</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mobiles">mobiles</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mobile accessories">Mobile Accessories</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Asus-ZenFone-Max-Pro-M2/" class="text-dark">Asus ZenFone Max Pro M2</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mobiles">mobiles</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/samsung-galaxy-m20/" class="text-dark">Samsung Galaxy M20</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#new">new</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mobiles">mobiles</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>   </div>
+</div>
+</div>
+:ET

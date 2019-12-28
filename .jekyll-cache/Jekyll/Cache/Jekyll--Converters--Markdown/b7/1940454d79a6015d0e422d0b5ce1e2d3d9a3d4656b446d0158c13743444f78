@@ -1,0 +1,25 @@
+I"R<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+<p><!-- Content --></p>
+
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+
+         
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+       
+        
+            {% include mobile-mainloop.html %}
+        
+        
+      
+       
+    
+<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+</div>
+<div class="col-md-5"> {% include sidebar-featured.html %}  </div>
+</div>
+</div>
+:ET
