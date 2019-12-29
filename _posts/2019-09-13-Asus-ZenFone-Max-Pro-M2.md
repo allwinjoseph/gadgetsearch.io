@@ -23,83 +23,199 @@ Asus ZenFone Max Pro M2 will be a great choice for the one who likes the best di
 ---
 #### General
 
-| Brand | Asus |
-| ----------- | ----------- |
-| Model | Asus ZenFone Max Pro M2 |
-| Operating System | Stock Android™ Oreo™ |
-| Colors | Blue, Titanium |
-
-#### Battery
-<table>
+<table class="table table-bordered table-cus">
+<tbody>
 <tr>
-<td>Battery capacity (mAh)</td><td>5000mAh <br>Up to 46 days 4G standby<br>
+<td style="width:25%; font-weight:bold;">Brand</td>
+<td>Asus</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Model</td>
+<td>Asus ZenFone Max Pro M2</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Operating System</td>
+<td>Stock Android™ Oreo™</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Colors</td>
+<td> Blue, Titanium</td>
+</tr>
+</tbody>
+</table>
+#### Battery
+
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">Battery capacity</td>
+<td>5000mAh <br>Up to 46 days 4G standby<br>
 Up to 40 hours 3G talk time<br>
 Up to 26 hours Wi-Fi web browsing<br>
 Up to 22 hours online video playback</td>
 </tr>
 <tr>
-<td>Removable battery</td>
-<td>No </td>
-</tr>
-<tr>
-<td>Wireless charging</td>
+<td style="width:25%; font-weight:bold;">Removable battery</td>
 <td>No</td>
 </tr>
 <tr>
-<td>Type</td>
+<td style="width:25%; font-weight:bold;">Wireless charging</td>
+<td>No</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Type</td>
 <td>Li-ion</td>
 </tr>
 <tr>
-<td>Quick Charging </td>
+<td style="width:25%; font-weight:bold;">Quick Charging </td>
 <td>Yes</td>
 </tr>
+</tbody>
 </table>
-
-
 #### Memory
 
-| RAM/ROM | 3GB/4GB <br> 32GB/64GB|
-| External Memory Support | MicroSD card Supports up to 2TB |
-
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">RAM/ROM</td>
+<td>3GB/4GB <br> 32GB/64GB</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">External Memory Support</td>
+<td>MicroSD card Supports up to 2TB</td>
+</tr>
+</tbody>
+</table>
 #### Display
 
-| Screen Size | 6.26”|
-| Screen Resolution	| 1080x2280 pixels |
-| Aspect Ratio | 19:9|
-| Touch Screen | ✓ |
-        		          			          
-#### Camera
-| Rear camera |Main Rear Camera\\ 12MP Sony® IMX486 image sensor\\  F1.8 aperture<br>|  
-
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">Screen Size</td>
+<td>6.26”</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Screen Resolution</td>
+<td>1080x2280 pixels</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Aspect Ratio</td>
+<td>19:9</td>
+</tr>
+<tr>
+<td>Touch Screen</td>
+<td>✓ </td>
+</tr>
+</tbody>
+</table>
+#### Camera  
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">Main Rear Camera</td>
+<td>12MP Sony® IMX486 image senso</td>
+</tr>
+</tbody>
+</table>
 #### Network/Connectivity
 
-| SIM Slot(s) | Triple slots: Dual SIM & Dedicated microSD card<br>
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">SIM Slot(s)</td>
+<td>Triple slots: Dual SIM & Dedicated microSD card<br>
 Slot 1: 2G/3G/4G Nano SIM card<br>
 Slot 2: 2G/3G/4G Nano SIM card<br>
 Both SIM card slots support 4G LTE & VoLTE network band<br>
-Slot 3: supports up to 2TB microSD card |
-| Infra | FDD-LTE, TD-LTE, TD-SCDMA, WCDMA/HSPA+/DC-HSDPA, GSM/GPRS/EDGE |
-| Wi-Fi standards supported |802.11 b/g/n |
-| GPS | ✓ |
-| Bluetooth | ✓ v5.0 |
-| Micro-USB |  ✓ 2|
-| Headphones | ✓ |
+Slot 3: supports up to 2TB microSD card</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Infra</td>
+<td>FDD-LTE, TD-LTE, TD-SCDMA, WCDMA/HSPA+/DC-HSDPA, GSM/GPRS/EDGE</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Wi-Fi standards supported</td>
+<td>802.11 b/g/n</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">GPS</td>
+<td>✓</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Bluetooth</td>
+<td>✓ v5.0</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Micro-USB</td>
+<td>✓ 2</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Headphones</td>
+<td>✓ </td>
+</tr>
+</tbody>
+</table>
 
 #### Hardware
-
-| Processor | 1.95GHz octa-core Qualcomm Snapdragon 660|
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">Processor</td>
+<td>1.95GHz octa-core Qualcomm Snapdragon 660</td>
+</tr>
+</tbody>
+</table>
 
 #### Software
-| Operating system | Android Oreo 8.1|
 
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">Operating system </td>
+<td> Android Oreo 8.1</td>
+</tr>
+</tbody>
+</table>
 #### Sensors
-
-| Fingerprint sensor | ✓ |
-| Proximity sensor | ✓ |
-| Accelerometer | ✓ |
-| E-Compass  | ✓ |
-| Ambient light sensor | ✓ |
-| Gravity | ✓| 
-
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">Fingerprint sensor</td>
+<td>✓</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Proximity sensor</td>
+<td>✓</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Accelerometer</td>
+<td>✓</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">E-Compass</td>
+<td>✓</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Ambient light sensor</td>
+<td>✓</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">Gravity</td>
+<td>✓</td>
+</tr>
+</tbody>
+</table>
 #### PROS/CONS
-| PROS <br> Stock Android | CONS <br>Cameras Performance - Average<br> The fingerprint scanner is slow |
+
+<table class="table table-bordered table-cus">
+<tbody>
+<tr>
+<td style="width:25%; font-weight:bold;">PROS</td>
+<td>Stock Android</td>
+</tr>
+<tr>
+<td style="width:25%; font-weight:bold;">CONS</td>
+<td>Cameras Performance - Average<br> The fingerprint scanner is slow</td>
+</tr>
+</tbody>
+</table>
