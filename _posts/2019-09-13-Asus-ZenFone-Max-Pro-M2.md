@@ -21,7 +21,7 @@ Asus ZenFone Max Pro M2 will be a great choice for the one who likes the best di
 
 ### Specifications
 ---
-#### General
+<h3 class="cus-col"> General</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
@@ -43,7 +43,7 @@ Asus ZenFone Max Pro M2 will be a great choice for the one who likes the best di
 </tr>
 </tbody>
 </table>
-#### Battery
+<h3 class="cus-col">Battery</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
@@ -72,7 +72,7 @@ Up to 22 hours online video playback</td>
 </tr>
 </tbody>
 </table>
-#### Memory
+<h3 class="cus-col">Memory</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
@@ -86,7 +86,8 @@ Up to 22 hours online video playback</td>
 </tr>
 </tbody>
 </table>
-#### Display
+
+<h3 class="cus-col">Display</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
@@ -108,7 +109,8 @@ Up to 22 hours online video playback</td>
 </tr>
 </tbody>
 </table>
-#### Camera  
+
+<h3 class="cus-col">Camera  </h3>
 <table class="table table-bordered table-cus">
 <tbody>
 <tr>
@@ -117,7 +119,8 @@ Up to 22 hours online video playback</td>
 </tr>
 </tbody>
 </table>
-#### Network/Connectivity
+
+<h3 class="cus-col">Network/Connectivity</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
@@ -156,7 +159,7 @@ Slot 3: supports up to 2TB microSD card</td>
 </tbody>
 </table>
 
-#### Hardware
+<h3 class="cus-col">Hardware</h3>
 <table class="table table-bordered table-cus">
 <tbody>
 <tr>
@@ -166,7 +169,7 @@ Slot 3: supports up to 2TB microSD card</td>
 </tbody>
 </table>
 
-#### Software
+<h3 class="cus-col">Software</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
@@ -176,7 +179,8 @@ Slot 3: supports up to 2TB microSD card</td>
 </tr>
 </tbody>
 </table>
-#### Sensors
+
+<h3 class="cus-col">Sensors</h3>
 <table class="table table-bordered table-cus">
 <tbody>
 <tr>
@@ -205,7 +209,8 @@ Slot 3: supports up to 2TB microSD card</td>
 </tr>
 </tbody>
 </table>
-#### PROS/CONS
+
+<h3 class="cus-col">PROS/CONS</h3>
 
 <table class="table table-bordered table-cus">
 <tbody>
